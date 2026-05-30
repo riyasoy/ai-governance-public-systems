@@ -4,10 +4,10 @@ A research-oriented project exploring the intersection of artificial intelligenc
 ## Focus Areas 
 - AI Governance 
 
--Public Policy
--Emerging Technologies 
--Cybersecurity & Ethics 
--Responsible AI Systems 
+- Public Policy
+- Emerging Technologies 
+- Cybersecurity & Ethics 
+- Responsible AI Systems 
 
 ## Author
 Riya Soy
