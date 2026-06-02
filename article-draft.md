@@ -36,3 +36,25 @@ However, the increasing use of AI in public systems also raises significant conc
 Another concern is the uneven distribution of technological benefits. While smart city initiatives and advanced digital infrastructure may improve services in urban areas, rural communities may not receive the same level of access or investment. This raises important questions about inclusion, equity, and the fair distribution of technological progress.
 
 Therefore, while AI offers significant opportunities for improving public systems, its deployment must be accompanied by strong governance mechanisms to ensure that innovation remains aligned with public interest, human rights, and democratic values.
+
+## Challenges and Risks of AI in Public Systems
+
+### Privacy and Data Protection
+
+[To be written]
+
+### Bias and Discrimination
+
+[To be written]
+
+### Lack of Transparency and Explainability
+
+[To be written]
+
+### Accountability and Governance Gaps
+
+[To be written]
+
+### Cybersecurity and Misinformation Risks
+
+[To be written]
