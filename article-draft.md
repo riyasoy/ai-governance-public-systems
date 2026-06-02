@@ -70,12 +70,33 @@ While efforts can be made to reduce bias through better data collection, auditin
 
 ### Lack of Transparency and Explainability
 
-[To be written]
+Many AI systems operate as complex models whose decision-making processes are difficult for humans to understand. This phenomenon is often described as the "black box" problem. While an AI system may generate highly accurate predictions or recommendations, it may not always provide a clear explanation for how it reached a particular conclusion.
+
+The lack of transparency becomes especially concerning in public systems, where decisions can directly affect citizens' lives. AI-assisted decisions related to welfare benefits, healthcare access, education, taxation, or public services may have significant consequences. If individuals cannot understand why a decision was made, they may find it difficult to challenge errors or seek accountability.
+
+Explainability is therefore a critical component of trustworthy AI. Transparent systems help citizens, policymakers, and organizations understand the capabilities and limitations of AI. They also improve public trust by ensuring that decisions can be examined, questioned, and reviewed when necessary.
+
+Effective AI governance should encourage transparency, documentation, and clear communication regarding how AI systems operate. While some advanced models may never be fully explainable, organizations should strive to provide meaningful explanations and maintain human oversight over important decisions.
 
 ### Accountability and Governance Gaps
 
-[To be written]
+
+As AI systems become increasingly involved in decision-making processes, questions of responsibility become more complex. When an AI system causes harm, produces an unfair outcome, or makes an incorrect recommendation, determining who should be held accountable is often challenging.
+
+Responsibility may be distributed across multiple actors, including developers, technology vendors, government agencies, policymakers, and organizational leaders. This complexity can create governance gaps in which no single entity accepts responsibility for the consequences of AI-driven decisions.
+
+The absence of clear accountability mechanisms can weaken public trust and reduce confidence in AI-enabled public services. Citizens affected by AI decisions should have access to mechanisms that allow them to seek explanations, challenge outcomes, and obtain remedies when mistakes occur.
+
+Frameworks such as those developed by OECD, NIST, and various national governments emphasize the importance of accountability, oversight, and clearly defined governance structures. Effective AI governance requires assigning responsibilities throughout the AI lifecycle, from design and deployment to monitoring and evaluation. Human oversight remains essential to ensure that AI systems remain aligned with legal, ethical, and societal expectations.
 
 ### Cybersecurity and Misinformation Risks
 
-[To be written]
+Cybersecurity and Misinformation Risks
+
+The growing use of AI technologies introduces new cybersecurity and information-related challenges. AI systems often process large volumes of sensitive data and may become attractive targets for cyberattacks. Unauthorized access, data breaches, model manipulation, or system failures can compromise both public services and citizen trust.
+
+AI also has the potential to accelerate the spread of misinformation and disinformation. Generative AI tools can create realistic text, images, audio, and video content that may be difficult to distinguish from authentic information. Such capabilities can be misused to manipulate public opinion, spread false narratives, or undermine confidence in institutions.
+
+These risks are particularly significant in public systems because governments are responsible for maintaining public trust, security, and social stability. AI-generated misinformation can influence democratic processes, while cybersecurity failures can expose sensitive citizen data and disrupt essential services.
+
+To address these challenges, governments and organizations should invest in robust cybersecurity measures, continuous monitoring, risk assessments, and public awareness initiatives. Strong governance frameworks can help ensure that AI technologies are used responsibly while minimizing opportunities for misuse and malicious activity.
