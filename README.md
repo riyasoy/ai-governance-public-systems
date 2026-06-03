@@ -49,6 +49,8 @@ Riya Soy
 
 ✅ Research Completed
 
-✅ First Draft Completed
+✅ Writing Completed
 
-🔄 Final Review and Editing In Progress
+✅ Final Review Completed
+
+✅ Project 1 Completed
